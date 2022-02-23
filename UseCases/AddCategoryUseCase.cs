@@ -4,16 +4,16 @@ using UseCases.UseCaseInterfaces;
 
 namespace UseCases;
 
-public class ViewCategoriesUseCase : IViewCategoriesUseCase
+public class AddCategoryUsecase : IAddCategoryUseCase
 {
     private readonly ICategoryRepository _categoryRepository;
 
-    public ViewCategoriesUseCase(ICategoryRepository categoryRepository)
+    public AddCategoryUsecase(ICategoryRepository categoryRepository)
     {
         _categoryRepository = categoryRepository;
     }
-    public IEnumerable<Category>  Execute()
+    public void Execute(Category category)
     {
-        return _categoryRepository.GetCategories();
+        _categoryRepository.AddCategory(category);
     }
 }
