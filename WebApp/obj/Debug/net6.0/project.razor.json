@@ -111,6 +111,39 @@
         }
       },
       {
+        "HashCode": 1975010826,
+        "Kind": "Components.Component",
+        "Name": "WebApp.Pages.AddCategoryComponent",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddCategoryComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.Pages.AddCategoryComponent"
+        }
+      },
+      {
+        "HashCode": 1524318156,
+        "Kind": "Components.Component",
+        "Name": "WebApp.Pages.AddCategoryComponent",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "WebApp.Pages.AddCategoryComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.Pages.AddCategoryComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1784730881,
         "Kind": "Components.Component",
         "Name": "WebApp.Pages.CategoriesComponent",
@@ -144,35 +177,55 @@
         }
       },
       {
-        "HashCode": 1975010826,
+        "HashCode": -1632650066,
         "Kind": "Components.Component",
-        "Name": "WebApp.Pages.AddCategoryComponent",
+        "Name": "WebApp.Pages.EditCategoryComponent",
         "AssemblyName": "WebApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "AddCategoryComponent"
+            "TagName": "EditCategoryComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "CategoryId",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "CategoryId"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.Pages.AddCategoryComponent"
+          "Common.TypeName": "WebApp.Pages.EditCategoryComponent"
         }
       },
       {
-        "HashCode": 1524318156,
+        "HashCode": -634680739,
         "Kind": "Components.Component",
-        "Name": "WebApp.Pages.AddCategoryComponent",
+        "Name": "WebApp.Pages.EditCategoryComponent",
         "AssemblyName": "WebApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "WebApp.Pages.AddCategoryComponent"
+            "TagName": "WebApp.Pages.EditCategoryComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "CategoryId",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "CategoryId"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.Pages.AddCategoryComponent",
+          "Common.TypeName": "WebApp.Pages.EditCategoryComponent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16710,6 +16763,11 @@
     {
       "FilePath": "/home/abubakr/coding/SupermarketManagement/WebApp/Pages/Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/abubakr/coding/SupermarketManagement/WebApp/Pages/EditCategoryComponent.razor",
+      "TargetPath": "Pages\\EditCategoryComponent.razor",
       "FileKind": "component"
     },
     {

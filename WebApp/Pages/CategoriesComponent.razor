@@ -19,6 +19,7 @@
                 <tr>
                     <td>@category.Name</td>
                     <td>@category.Description</td>
+                    <td><button type="button" class="btn btn-primary" @onclick="() => EditCategory(category)">Edit</button></td>
                 </tr>
             }
         </tbody>
@@ -38,5 +39,10 @@
     private void OnClickAddCategory()
     {
         NavigationManager.NavigateTo("/addcategory");
+    }
+
+    private void EditCategory(Category category)
+    {
+        NavigationManager.NavigateTo($"editcategory/{category.CategoryId}");
     }
 }

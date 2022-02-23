@@ -28,4 +28,15 @@ public class CategoryInMemoryRepository : ICategoryRepository
     {
         return categories;
     }
+
+    public Category GetCategoryById(int categoryId)
+    {
+        return categories?.FirstOrDefault(x => x.CategoryId == categoryId);
+    }
+
+    public void UpdateCategory(Category category)
+    {
+        var categoryToUpdate = GetCategoryById(category.CategoryId);
+        if(categoryToUpdate is not null) categoryToUpdate = category;
+    }
 }
