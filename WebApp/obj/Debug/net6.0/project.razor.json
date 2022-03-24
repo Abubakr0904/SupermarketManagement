@@ -12,6 +12,92 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -1632650066,
+        "Kind": "Components.Component",
+        "Name": "WebApp.Pages.EditCategoryComponent",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditCategoryComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "CategoryId",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "CategoryId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.Pages.EditCategoryComponent"
+        }
+      },
+      {
+        "HashCode": -634680739,
+        "Kind": "Components.Component",
+        "Name": "WebApp.Pages.EditCategoryComponent",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "WebApp.Pages.EditCategoryComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "CategoryId",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "CategoryId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.Pages.EditCategoryComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -452234664,
+        "Kind": "Components.Component",
+        "Name": "WebApp.Pages.Index",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1777459721,
+        "Kind": "Components.Component",
+        "Name": "WebApp.Pages.Index",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "WebApp.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 464075744,
         "Kind": "Components.Component",
         "Name": "WebApp.Pages.Counter",
@@ -78,72 +164,6 @@
         }
       },
       {
-        "HashCode": -452234664,
-        "Kind": "Components.Component",
-        "Name": "WebApp.Pages.Index",
-        "AssemblyName": "WebApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1777459721,
-        "Kind": "Components.Component",
-        "Name": "WebApp.Pages.Index",
-        "AssemblyName": "WebApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "WebApp.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1975010826,
-        "Kind": "Components.Component",
-        "Name": "WebApp.Pages.AddCategoryComponent",
-        "AssemblyName": "WebApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "AddCategoryComponent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.Pages.AddCategoryComponent"
-        }
-      },
-      {
-        "HashCode": 1524318156,
-        "Kind": "Components.Component",
-        "Name": "WebApp.Pages.AddCategoryComponent",
-        "AssemblyName": "WebApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "WebApp.Pages.AddCategoryComponent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.Pages.AddCategoryComponent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1784730881,
         "Kind": "Components.Component",
         "Name": "WebApp.Pages.CategoriesComponent",
@@ -177,88 +197,35 @@
         }
       },
       {
-        "HashCode": -1632650066,
+        "HashCode": 1975010826,
         "Kind": "Components.Component",
-        "Name": "WebApp.Pages.EditCategoryComponent",
+        "Name": "WebApp.Pages.AddCategoryComponent",
         "AssemblyName": "WebApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "EditCategoryComponent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "CategoryId",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "CategoryId"
-            }
+            "TagName": "AddCategoryComponent"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.Pages.EditCategoryComponent"
+          "Common.TypeName": "WebApp.Pages.AddCategoryComponent"
         }
       },
       {
-        "HashCode": -634680739,
+        "HashCode": 1524318156,
         "Kind": "Components.Component",
-        "Name": "WebApp.Pages.EditCategoryComponent",
+        "Name": "WebApp.Pages.AddCategoryComponent",
         "AssemblyName": "WebApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "WebApp.Pages.EditCategoryComponent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "CategoryId",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "CategoryId"
-            }
+            "TagName": "WebApp.Pages.AddCategoryComponent"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.Pages.EditCategoryComponent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1420611253,
-        "Kind": "Components.Component",
-        "Name": "WebApp.App",
-        "AssemblyName": "WebApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.App"
-        }
-      },
-      {
-        "HashCode": -1885752013,
-        "Kind": "Components.Component",
-        "Name": "WebApp.App",
-        "AssemblyName": "WebApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "WebApp.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.App",
+          "Common.TypeName": "WebApp.Pages.AddCategoryComponent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -441,6 +408,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "WebApp.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1420611253,
+        "Kind": "Components.Component",
+        "Name": "WebApp.App",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.App"
+        }
+      },
+      {
+        "HashCode": -1885752013,
+        "Kind": "Components.Component",
+        "Name": "WebApp.App",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "WebApp.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
