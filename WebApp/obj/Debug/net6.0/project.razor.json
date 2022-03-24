@@ -12,6 +12,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 464075744,
+        "Kind": "Components.Component",
+        "Name": "WebApp.Pages.Counter",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 240561194,
+        "Kind": "Components.Component",
+        "Name": "WebApp.Pages.Counter",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "WebApp.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1632650066,
         "Kind": "Components.Component",
         "Name": "WebApp.Pages.EditCategoryComponent",
@@ -65,6 +98,39 @@
         }
       },
       {
+        "HashCode": -1775864308,
+        "Kind": "Components.Component",
+        "Name": "WebApp.Pages.FetchData",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 1099701857,
+        "Kind": "Components.Component",
+        "Name": "WebApp.Pages.FetchData",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "WebApp.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -452234664,
         "Kind": "Components.Component",
         "Name": "WebApp.Pages.Index",
@@ -98,68 +164,35 @@
         }
       },
       {
-        "HashCode": 464075744,
+        "HashCode": 1975010826,
         "Kind": "Components.Component",
-        "Name": "WebApp.Pages.Counter",
+        "Name": "WebApp.Pages.AddCategoryComponent",
         "AssemblyName": "WebApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "AddCategoryComponent"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.Pages.Counter"
+          "Common.TypeName": "WebApp.Pages.AddCategoryComponent"
         }
       },
       {
-        "HashCode": 240561194,
+        "HashCode": 1524318156,
         "Kind": "Components.Component",
-        "Name": "WebApp.Pages.Counter",
+        "Name": "WebApp.Pages.AddCategoryComponent",
         "AssemblyName": "WebApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "WebApp.Pages.Counter"
+            "TagName": "WebApp.Pages.AddCategoryComponent"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1775864308,
-        "Kind": "Components.Component",
-        "Name": "WebApp.Pages.FetchData",
-        "AssemblyName": "WebApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 1099701857,
-        "Kind": "Components.Component",
-        "Name": "WebApp.Pages.FetchData",
-        "AssemblyName": "WebApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "WebApp.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.Pages.FetchData",
+          "Common.TypeName": "WebApp.Pages.AddCategoryComponent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -197,35 +230,101 @@
         }
       },
       {
-        "HashCode": 1975010826,
+        "HashCode": -1515387005,
         "Kind": "Components.Component",
-        "Name": "WebApp.Pages.AddCategoryComponent",
+        "Name": "WebApp.Pages.AddProductComponent",
         "AssemblyName": "WebApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "AddCategoryComponent"
+            "TagName": "AddProductComponent"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.Pages.AddCategoryComponent"
+          "Common.TypeName": "WebApp.Pages.AddProductComponent"
         }
       },
       {
-        "HashCode": 1524318156,
+        "HashCode": -2082478448,
         "Kind": "Components.Component",
-        "Name": "WebApp.Pages.AddCategoryComponent",
+        "Name": "WebApp.Pages.AddProductComponent",
         "AssemblyName": "WebApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "WebApp.Pages.AddCategoryComponent"
+            "TagName": "WebApp.Pages.AddProductComponent"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.Pages.AddCategoryComponent",
+          "Common.TypeName": "WebApp.Pages.AddProductComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 336986061,
+        "Kind": "Components.Component",
+        "Name": "WebApp.Pages.ProductsComponent",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ProductsComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.Pages.ProductsComponent"
+        }
+      },
+      {
+        "HashCode": 1404376252,
+        "Kind": "Components.Component",
+        "Name": "WebApp.Pages.ProductsComponent",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "WebApp.Pages.ProductsComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.Pages.ProductsComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1420611253,
+        "Kind": "Components.Component",
+        "Name": "WebApp.App",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.App"
+        }
+      },
+      {
+        "HashCode": -1885752013,
+        "Kind": "Components.Component",
+        "Name": "WebApp.App",
+        "AssemblyName": "WebApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "WebApp.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApp.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -408,39 +507,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "WebApp.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1420611253,
-        "Kind": "Components.Component",
-        "Name": "WebApp.App",
-        "AssemblyName": "WebApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.App"
-        }
-      },
-      {
-        "HashCode": -1885752013,
-        "Kind": "Components.Component",
-        "Name": "WebApp.App",
-        "AssemblyName": "WebApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "WebApp.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApp.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16776,6 +16842,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "/home/abubakr/coding/SupermarketManagement/WebApp/Pages/AddProductComponent.razor",
+      "TargetPath": "Pages\\AddProductComponent.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/home/abubakr/coding/SupermarketManagement/WebApp/Pages/FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
@@ -16784,6 +16855,11 @@
       "FilePath": "/home/abubakr/coding/SupermarketManagement/WebApp/Pages/_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/abubakr/coding/SupermarketManagement/WebApp/Pages/ProductsComponent.razor",
+      "TargetPath": "Pages\\ProductsComponent.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "/home/abubakr/coding/SupermarketManagement/WebApp/_Imports.razor",

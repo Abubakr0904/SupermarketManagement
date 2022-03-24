@@ -23,6 +23,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRkQ2F0ZWdvcnlDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/abubakr/coding/SupermarketManagement/WebApp/Pages/AddProductComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRkUHJvZHVjdENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/abubakr/coding/SupermarketManagement/WebApp/Pages/CategoriesComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0ZWdvcmllc0NvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -41,6 +45,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/home/abubakr/coding/SupermarketManagement/WebApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abubakr/coding/SupermarketManagement/WebApp/Pages/ProductsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHNDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/abubakr/coding/SupermarketManagement/WebApp/Shared/SurveyPrompt.razor]
